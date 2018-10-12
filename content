@@ -1,0 +1,209 @@
+0001	Naive A+B Problem language exercise	
+ x 131
+0002	Naive A+B Problem Templated language exercise	
+ x 126
+0003	Naive 数据结构开课啦 language exercise	
+ x 112
+1001	Naive 线性表插入删除操作 array	
+ x 109
+1002	Easy 线性表的比较 array	
+ x 114
+1003	Easy 线性链表的插入与删除 linked list	
+ x 55
+1004	Medium 环形双向链表的删除操作 linked list	
+ x 61
+1005	Easy 线性表去重 array	
+ x 112
+1006	Naive 线性表顺序查找 array	
+ x 117
+1007	Easy 线性表二分查找 array binary search	
+ x 110
+1008	Medium 经典的猜数游戏 binary search interactive	
+ x 42
+1009	Easy 环形队列 queue	
+ x 95
+1010	Hard 医疗调度系统 queue	
+ x 57
+1011	Medium 循环打印 linked list	
+ x 79
+1012	Medium 查词典 queue	
+ x 64
+1013	Hard 欣赏书法 queue	
+ x 49
+1014	Medium 座位分配 implementation queue	
+ x 48
+1015	Hard 银行排队夹塞 queue	
+ x 18
+1016	Medium 玩具谜题 implementation	
+ x 47
+1017	Medium 题库整理 stack	
+ x 66
+1018	Hard 铁路调度 stack	
+ x 60
+1019	Medium 可旋栈 stack	
+ x 49
+1020	Hard 波兰表达式 implementation parser stack	
+ x 41
+1021	Easy 一元多项式乘法 implementation parser	
+ x 56
+1022	Hard 表达式 implementation parser stack	
+ x 24
+1023	Hard 迷宫 dfs	
+ x 25
+1024	Medium 皇后问题 implementation math	
+ x 22
+1025	Medium 皇后问题（SPJ） implementation math	
+ x 12
+1026	Super 百万皇后 random	
+ x 5
+1027	Easy 游程长度编码 implementation string	
+ x 48
+1028	Hard 方言翻译 hash	
+ x 25
+1029	Medium 统计字符串个数 string	
+ x 45
+1030	Medium 字串排序 sortings string	
+ x 69
+1031	Naive 删除子串 string	
+ x 57
+1032	Medium 构造字典序最小字符串 greedy	
+ x 52
+1033	Naive 字符串的交织 string	
+ x 43
+1034	Medium 字符串替换 language exercise	
+ x 51
+1035	Easy 字符串消除 string	
+ x 56
+1036	Naive 反转字符串 string	
+ x 67
+1037	Medium 最长连续公共子序列 DP string	
+ x 29
+1038	Easy 最长回文子串 DP string	
+ x 34
+1039	Naive 字符串模式匹配简单匹配 string	
+ x 43
+1040	Hard 字符串模式匹配KMP算法 string	
+ x 22
+1041	Medium 字符串模式匹配BM算法 string	
+ x 11
+1042	Hard GPS数据处理 implementation string	
+ x 12
+1043	Hard 网址的替换 string	
+ x 6
+1044	Hard 密码碰撞 hash string	
+ x 8
+1045	Naive 稀疏矩阵三元组转化 array	
+ x 15
+1046	Easy 三元组稀疏矩阵相加 array	
+ x 10
+1047	Easy 冒泡排序 implementation sortings	
+ x 22
+1048	Naive 插入排序 sortings	
+ x 40
+1049	Naive 选择排序 sortings	
+ x 39
+1050	Super 选择排序（构造） sortings	
+ x 14
+1051	Easy 快速排序 sortings	
+ x 11
+1052	Medium 快速排序的优化 sortings	
+ x 14
+1053	Naive 统计工龄 sortings	
+ x 27
+1054	Medium 排名汇总 sortings	
+ x 19
+1055	Easy 成绩排序 sortings	
+ x 27
+1056	Hard 恢复古诗 hash sortings STL	
+ x 10
+1057	Naive 数组排序 sortings	
+ x 50
+1058	Easy 二维数组排序 sortings	
+ x 20
+1059	Naive 鞍点 sortings	
+ x 25
+1060	Medium 树的双亲存储法 data structure dfs trees	
+ x 10
+1061	Easy 树的层号表示法 trees	
+ x 10
+1062	Easy 还原二叉树 binary tree trees	
+ x 9
+1063	Hard 目录树 trees	
+ x 3
+1064	Medium 最小权值路径 binary tree dfs trees	
+ x 6
+1065	Super 二叉树路径和 binary tree trees	
+ x 4
+1066	Medium 下落的小球 binary tree trees	
+ x 6
+1067	Medium 平衡二叉树 binary tree trees	
+ x 3
+1068	Medium 二叉搜索树 binary tree trees	
+ x 6
+1069	Super 圆上相交弦 binary tree RB tree trees	
+ x 3
+1070	Hard 最优二叉搜索树 binary tree trees	
+ x 3
+1071	Hard 寻找EMB富豪 sortings	
+ x 5
+1072	Easy 树种统计 binary tree trees	
+ x 10
+1073	Medium Windows消息队列 binary tree trees	
+ x 5
+1074	Medium Huffman树的最小外部加权值 binary tree huffman tree trees	
+ x 5
+1075	Super 构造Huffman树 binary tree huffman tree trees	
+ x 1
+1076	Medium Huffman解密 binary tree huffman tree trees	
+ x 2
+1077	Medium 朋友圈 dsu	
+ x 19
+1078	Easy Virtual Friends dsu	
+ x 18
+1079	Medium 小强的烦恼 dsu	
+ x 13
+1080	Medium 食物链 dsu	
+ x 12
+1081	Medium 华师大卫星照片 dfs search	
+ x 22
+1082	Medium 哥尼斯堡的七桥问题 graph	
+ x 6
+1083	Medium 地下迷宫探索 dfs graph	
+ x 5
+1084	Medium 最短路径 graph shortest paths	
+ x 4
+1085	Easy 路由器 graph shortest paths	
+ x 7
+1086	Easy Arbitrage graph shortest paths	
+ x 7
+1087	Medium 六度空间 graph	
+ x 5
+1088	Medium 组网计划 graph mst	
+ x 4
+1089	Medium 哈利·波特的考试 graph shortest paths	
+ x 4
+1090	Hard 寻找航海路线 graph mst	
+ x 4
+1091	Easy 公路村村通 graph mst	
+ x 5
+1092	Easy Building Roads graph mst	
+ x 8
+1093	Easy Hub Connection plan mst	
+ x 6
+1094	Medium 旅游规划 graph shortest paths	
+ x 3
+1095	Hard 城市间紧急救援 graph shortest paths	
+ x 3
+1096	Super 检查点 graph scc	
+ x 3
+1097	Hard 酒精饮料 graph topological sort	
+ x 2
+1098	Medium 任务调度问题 graph topological sort	
+ x 3
+1099	Hard 关键活动 topological sort	
+ x 1
+1100	Super 旅行商问题 random shortest paths	
+ x 2
+9001	Super 异常的葡萄 implementation	
+ x 4
+9002	Super 电子邮件地址验证 implementation string
